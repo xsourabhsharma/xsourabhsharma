@@ -37,11 +37,6 @@ I am currently deep in AI and ML learning, and I love turning ideas into working
 - **Shipping stack:** React.js, Next.js, Vercel, Supabase
 - **Current focus:** AI, Machine Learning, and creative AI-powered product work
 
-## GitHub Analytics
-
-![Sourabh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsourabhsharma&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsourabhsharma&theme=github_dark)
-
 ## Connect / Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-@xsourabhsharma-181717?style=for-the-badge&logo=github)](https://github.com/xsourabhsharma)
