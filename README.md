@@ -1,6 +1,6 @@
 # Hi, I'm Sourabh Sharma 👋
 
-🌍 **Gurgaon, Haryana, India** • 🚀 **Self-taught AI-first product builder** • 🧠 **Vibe coding every day** • he/him
+🌍 **Gurgaon, Haryana, India** • 🚀 **Self-taught Full-Stack Developer (AI-first)** • 🧠 **Vibe coding every day** • he/him
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 
 > *No formal degree, no traditional route. I build and ship complete products solo using AI tools as force multipliers - from UI to backend to database.*
 
-I am currently deep in AI and ML learning, and I love turning ideas into working products quickly.
+I am a solo full-stack developer using AI to move like a full product team, and I am currently deep in AI/ML learning.
 
 ## Current Projects
 
