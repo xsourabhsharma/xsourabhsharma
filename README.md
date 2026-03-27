@@ -1,6 +1,6 @@
 # Hi, I'm Sourabh Sharma 👋
 
-🌍 **Gurgaon, Haryana, India** • 🚀 **AI-First Full-Stack Builder** • 🧠 **Vibe Coder** • he/him
+🌍 **Gurgaon, Haryana, India** • 🚀 **Self-taught AI-first product builder** • 🧠 **Vibe coding every day** • he/him
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-6C5CE7?style=for-the-badge)
 
-> *No formal degree. No traditional path. I build complete products solo - frontend, backend, database, design - with AI as my superpower and vibe coding as my operating system.*
+> *No formal degree, no traditional route. I build and ship complete products solo using AI tools as force multipliers - from UI to backend to database.*
+
+I am currently deep in AI and ML learning, and I love turning ideas into working products quickly.
 
 ## Current Projects
 
@@ -31,14 +33,14 @@
 
 ## AI Tools I Use
 
-- **Daily stack:** Claude, Gemini, Gemini CLI, Codex
+- **Daily stack:** Claude, Gemini, Gemini CLI, Codex, Antigravity
 - **Shipping stack:** React.js, Next.js, Vercel, Supabase
-- **Current focus:** AI, Machine Learning, and high-velocity solo product building
+- **Current focus:** AI, Machine Learning, and creative AI-powered product work
 
 ## GitHub Analytics
 
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsourabhsharma&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xsourabhsharma&layout=compact&theme=tokyonight&hide_border=true)
+![Sourabh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsourabhsharma&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsourabhsharma&theme=github_dark)
 
 ## Connect / Find Me
 
