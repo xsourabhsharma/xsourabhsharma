@@ -10,6 +10,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-A66CFF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -34,7 +35,7 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 ## AI Tools I Use
 
 - **Daily stack:** Claude, Gemini, Gemini CLI, Codex, Antigravity
-- **Shipping stack:** React.js, Next.js, Vercel, Supabase
+- **Shipping stack:** React.js, Next.js, Node.js, Vercel, Supabase
 - **Current focus:** AI, Machine Learning, and creative AI-powered product work
 
 ## Connect / Find Me
