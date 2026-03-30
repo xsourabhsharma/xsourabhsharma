@@ -28,6 +28,7 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 
 ## Current Projects
 
+- **[Aura-Grid](https://github.com/xsourabhsharma/aura-grid)** - High-performance, distributed DeFi security suite powered by Rust, Python, and Hybrid-AI.
 - **[TrackMyMoney](https://github.com/xsourabhsharma/trackmymoney)** - Personal finance tracker for smarter money habits and everyday clarity.
 - **[Portfolio Website](https://xsourabhsharma.github.io)** - My personal site showcasing projects, skills, and experiments.
 - **[WebGem](https://github.com/xsourabhsharma/webgem)** - A web-focused project where I build and ship ideas fast.
@@ -35,8 +36,8 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 ## AI Tools I Use
 
 - **Daily stack:** Claude, Gemini, Gemini CLI, Codex, Antigravity
-- **Shipping stack:** React.js, Next.js, Node.js, Vercel, Supabase
-- **Current focus:** AI, Machine Learning, and creative AI-powered product work
+- **Shipping stack:** Rust, Python, Node.js, React.js, Next.js, Vercel, Supabase
+- **Current focus:** DeFi Security, Distributed Systems, AI-powered Smart Contract Auditing
 
 ## Connect / Find Me
 
@@ -46,5 +47,6 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xsourabhsharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xsourabhsharma)
 [![Instagram](https://img.shields.io/badge/Instagram-@instasourabhsharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/instasourabhsharma)
 [![Discord](https://img.shields.io/badge/Discord-@xsourabhsharma-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xsourabhsharma)
+[![Aura-Grid](https://img.shields.io/badge/Project-Aura--Grid-FF6B00?style=for-the-badge&logo=rust)](https://github.com/xsourabhsharma/aura-grid)
 [![TrackMyMoney](https://img.shields.io/badge/Project-TrackMyMoney-1F8B4C?style=for-the-badge&logo=github)](https://github.com/xsourabhsharma/trackmymoney)
 [![WebGem](https://img.shields.io/badge/Project-WebGem-6C5CE7?style=for-the-badge&logo=github)](https://github.com/xsourabhsharma/webgem)
