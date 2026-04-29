@@ -8,8 +8,7 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 
 ## AI Tools I Use
 
-- **Daily stack:** Claude Code, Gemini CLI, Codex, Antigravity, Warp 
-- **Shipping stack:** Rust, Python, Node.js, React.js, Next.js, Vercel, Supabase
+- **Daily stack:** Claude Code, Gemini CLI, Codex, Antigravity, Warp
 
 ## Connect / Find Me
 
@@ -19,6 +18,4 @@ I am a solo full-stack developer using AI to move like a full product team, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xsourabhsharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xsourabhsharma)
 [![Instagram](https://img.shields.io/badge/Instagram-@instasourabhsharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/instasourabhsharma)
 [![Discord](https://img.shields.io/badge/Discord-@xsourabhsharma-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xsourabhsharma)
-[![Aura-Grid](https://img.shields.io/badge/Project-Aura--Grid-FF6B00?style=for-the-badge&logo=rust)](https://github.com/xsourabhsharma/aura-grid)
-[![TrackMyMoney](https://img.shields.io/badge/Project-TrackMyMoney-1F8B4C?style=for-the-badge&logo=github)](https://github.com/xsourabhsharma/trackmymoney)
-[![WebGem](https://img.shields.io/badge/Project-WebGem-6C5CE7?style=for-the-badge&logo=github)](https://github.com/xsourabhsharma/webgem)
+
