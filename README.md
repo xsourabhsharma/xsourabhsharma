@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/dc70044e-c3c9-42bd-938a-9bd455d720c6
 
 > *I build and ship complete products solo using AI tools as force multipliers - from UI to backend to database.*
 
-I am a solo full-stack developer using AI to move like a full product team, and I am currently deep in AI/ML learning.
+I am a full-stack developer using AI to move like a full product team, and I am currently deep in AI/ML learning.
 
 ## AI Tools I Use
 
