@@ -4,15 +4,9 @@ https://github.com/user-attachments/assets/dc70044e-c3c9-42bd-938a-9bd455d720c6
 
 # Hi, I'm Sourabh Sharma 👋
 
-🌍 **Gurgaon, Haryana, India** • 🚀 **Full-Stack Developer** • 🧠 **Vibe coding every day** • he/him
+🌍 **Gurgaon, Haryana, India** • 🚀 **Full-Stack Developer** • he/him
 
-> *I build and ship complete products solo using AI tools as force multipliers - from UI to backend to database.*
-
-I am full-stack developer using AI to move like a full product team, and I am currently deep in AI/ML learning.
-
-## AI Tools I Use
-
-- **Daily stack:** Claude Code, Gemini CLI, Codex, Antigravity, Warp
+I am full-stack developer and I am currently deep in AI/ML learning.
 
 ## Connect / Find Me
 
